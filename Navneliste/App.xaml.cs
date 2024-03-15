@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Wpf_Semantic_Release_Test
+namespace Navneliste
 {
     /// <summary>
     /// Interaction logic for App.xaml
